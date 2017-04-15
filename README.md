@@ -10,6 +10,7 @@ __Updates for the 20th of April, 2017.__
 * Fixes for Apollo  
 * Updated anime.mp3  
 * Viola .ini fixes  
+* Orla finally has sounds.  
 
 ## Upcoming Changes
 * Complete revamp of the jukebox  
