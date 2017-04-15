@@ -8,10 +8,11 @@ __Updates for the 20th of April, 2017.__
 * New emotes for Vera  
 * Fixes for ApolloSoJ  
 * Fixes for Apollo  
-* Updated anime.mp3
+* Updated anime.mp3  
+* Viola .ini fixes  
 
 ## Upcoming Changes
 * Complete revamp of the jukebox  
 * The rest of PLvsAA's OST  
 * Unlimited Pursuits  
-* Godot's Jazz Blend
+* Godot's Jazz Blend  
