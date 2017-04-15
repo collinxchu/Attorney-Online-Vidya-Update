@@ -2,7 +2,7 @@
 __Updates for the 20th of April, 2017.__
 
 ## Current Changes
-* Smile for me, because I can't. Hotfixes for previous update  
+* Hotfixes for previous update.
 * New tracks from the Anime OST, PLvsAA and SOJ  
 * Katamari People  
 * New emotes for Vera  
