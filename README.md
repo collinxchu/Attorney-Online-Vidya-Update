@@ -11,6 +11,7 @@ __Updates for the 20th of April, 2017.__
 * Updated anime.mp3  
 * Viola .ini fixes  
 * Orla finally has sounds.  
+* Betty de Famme emotes for disappearing.
 
 ## Upcoming Changes
 * Complete revamp of the jukebox  
