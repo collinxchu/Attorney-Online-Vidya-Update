@@ -1,0 +1,17 @@
+Q has 7 voice clips that you can play around with. 5 of which similar to Adachi.
+
+sfx-QBreathe
+sfx-QHm1
+sfx-QHm2
+sfx-QMumble
+sfx-QSigh
+
+sfx-QCupBreak
+sfx-Qturnon
+
+
+Things to do
+-Sweating animation
+-Fixed zoom animation
+-Damage animation
+-SELF DESTRUCT

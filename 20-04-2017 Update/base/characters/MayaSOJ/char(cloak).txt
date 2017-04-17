@@ -1,0 +1,53 @@
+[Options]
+name = MayaSOJ
+showname = Maya
+side = wit
+gender = ddfemale
+
+[Time]
+happyhop = 37
+happyhopcloak = 35 
+prepump = 20
+prepumpcloak = 20
+shock = 15
+shockcloak = 15
+precry = 45
+
+[Emotions]
+firstmode = 10
+number = 10
+1 = Normal#normalcloak#normalcloak#0#
+2 = Lean#leancloak#leancloak#0#
+3 = Thinking#thinkingcloak#thinkingcloak#0#
+4 = Pray#happyhopcloak#praycloak#1#
+5 = Pray#praycloak#praycloak#0#
+
+6 = Shocked#shockcloak#shockedcloak#1#
+7 = Shocked#shockedcloak#shockedcloak#0#
+8 = Pumped#prepumpcloak#pumpedcloak#1#
+9 = Pumped#pumpedcloak#pumpedcloak#0#
+10 = Glub#glubcloak#glubcloak#0#
+
+[SoundN]
+1 = 1
+2 = 1
+3 = 1
+4 = 1
+5 = 1
+6 = sfx-stab-dd
+7 = 1
+8 = 1
+9 = 1
+10 = 1
+
+[SoundT]
+1 = 1
+2 = 1
+3 = 1
+4 = 1
+5 = 1
+6 = 1
+7 = 1
+8 = 1
+9 = 1
+10 = 1
