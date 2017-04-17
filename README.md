@@ -11,7 +11,8 @@ __Updates for the 20th of April, 2017.__
 * Updated anime.mp3  
 * Viola .ini fixes  
 * Orla finally has sounds.  
-* Betty de Famme emotes for disappearing.
+* Betty de Famme emotes for disappearing.  
+* Barok finally has a clear matta without background noises.
 
 ## Upcoming Changes
 * Complete revamp of the jukebox  
