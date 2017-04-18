@@ -13,6 +13,7 @@ __Updates for the 20th of April, 2017.__
 * Orla finally has sounds.  
 * Betty de Famme emotes for disappearing.  
 * Barok finally has a clear matta without background noises.
+* All Susatos have their Hai! as a custom objection.
 
 ## Upcoming Changes
 * Complete revamp of the jukebox  
