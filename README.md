@@ -15,7 +15,8 @@ __Updates for the 20th of April, 2017.__
 * Barok finally has a clear matta without background noises.
 * All Susatos have their Hai! as a custom objection.
 * Fixed gifs and inis for L~R.
-* Smoll fixes.
+* Smoll fixes.  
+* PearlSOJ Def.
 
 ## Upcoming Changes
 * Complete revamp of the jukebox  
