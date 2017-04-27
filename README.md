@@ -1,8 +1,11 @@
 # Attorney-Online-Vidya
-__Updates for the 27th of April, 2017.__
+__Updates for the 4th of May, 2017.__
 
 ## Current Changes
-* None.
+* Anime.mp3 updated  
+* Machi Tobaye's unique shouts  
+* Scuttlebutt fixes  
+* Hakari minor fix
 
 ## Upcoming Changes
 * Background name changes.
