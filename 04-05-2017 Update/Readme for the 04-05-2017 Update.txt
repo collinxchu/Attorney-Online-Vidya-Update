@@ -1,3 +1,2 @@
-The bat will delete this song automatically. 
-Delete the following song in your folder if you don't trust the .bat.
--[DGS] Fiery People.mp3
+The bat will rename the file from [DGS] Fiery People to [PLvsAA] Fiery People.
+Rename the song in your folder accordingly if you don't trust the .bat.
