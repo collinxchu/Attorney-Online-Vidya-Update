@@ -11,6 +11,7 @@ __Updates for the 21th of May, 2017.__
 * Vasquez fixes  
 * Kazuma's Hold It voiceline and bubble  
 * Barok's new sfx rips for bottle throw and henshin
+* Thalassa's fixes and new emotes
 
 ## Upcoming Changes
 * Nothing
