@@ -12,7 +12,8 @@ __Updates for the 21th of May, 2017.__
 * Kazuma's Hold It voiceline and bubble  
 * Barok's new sfx rips for bottle throw and henshin
 * Thalassa's fixes and new emotes
-* Apollo damage emote is now similar to the one in the games.
+* Apollo damage emote is now similar to the one in the games.  
+* Komaeda blinkings.
 
 ## Upcoming Changes
 * Nothing
