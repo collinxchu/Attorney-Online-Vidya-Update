@@ -14,6 +14,8 @@ __Updates for the 21th of May, 2017.__
 * Thalassa's fixes and new emotes
 * Apollo damage emote is now similar to the one in the games.  
 * Komaeda blinkings.
+* Bonny and Betty fixes.
+* Added Don Paolo's theme.
 
 ## Upcoming Changes
 * Nothing
