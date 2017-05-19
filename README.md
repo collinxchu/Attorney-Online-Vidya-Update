@@ -7,6 +7,7 @@ __Updates for the 21th of May, 2017.__
 * Added [P5] Pursuit  
 * Added [P5] Beneath the Mask
 * Added Don Paolo's theme  
+* Jezail rerip
 * Bonny and Betty fixes and new emotes  
 * Thalassa fixes and new emotes  
 * Bonnie_Karin fixes  
