@@ -6,16 +6,17 @@ __Updates for the 21th of May, 2017.__
 * Added Patricia Roland's theme
 * Added [P5] Pursuit  
 * Added [P5] Beneath the Mask
-* Added new Betty Emotes
-* Fixed Bonnie_Karin ini 
+* Added Don Paolo's theme  
+* Bonny and Betty fixes and new emotes  
+* Thalassa's fixes and new emotes  
+* Bonnie_Karin fixes  
 * Vasquez fixes  
 * Kazuma's Hold It voiceline and bubble  
-* Barok's new sfx rips for bottle throw and henshin
-* Thalassa's fixes and new emotes
-* Apollo damage emote is now similar to the one in the games.  
-* Komaeda blinkings.
-* Bonny and Betty fixes.
-* Added Don Paolo's theme.
+* Barok's new sfx rips for bottle throw and henshin  
+* Apollo damage emote is now similar to the one in the games  
+* Komaeda blinkings  
+* Kirigiri fixes  
+* Ibuki fixes  
 
 ## Upcoming Changes
 * Nothing
