@@ -7,18 +7,20 @@ __Updates for the 21th of May, 2017.__
 * Added [P5] Pursuit  
 * Added [P5] Beneath the Mask
 * Added Don Paolo's theme  
-* Jezail rerip
-* Bonny and Betty fixes and new emotes  
-* Thalassa fixes and new emotes  
+* Jezail rerip  
+* Apollo fixes  
 * Bonnie_Karin fixes  
-* Vasquez fixes  
-* Kirigiri fixes  
+* Bonny and Betty fixes and new emotes  
+* Chiaki fixes  
 * Ibuki fixes  
-* Komaeda blinkings  
+* Kirigiri fixes  
 * Lang fixes  
+* Lamiroir fixes  
+* Thalassa fixes and new emotes  
+* Vasquez fixes  
+* Komaeda fixes and blinkings  
 * Kazuma's Hold It voiceline and bubble  
-* Barok's new sfx rips for bottle throw and henshin  
-* Apollo damage emote is now similar to the one in the games  
+* Barok's new sfx rips  
 
 ## Upcoming Changes
 * Nothing
