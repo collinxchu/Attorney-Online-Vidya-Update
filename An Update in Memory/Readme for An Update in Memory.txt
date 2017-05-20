@@ -1,5 +1,3 @@
-FOR USERS USING THE EXE FILE
-If you are using the .exe file, locate the client folder where the base is, and select it as the folder location.
 ============================
 The .bat file removes the following songs. Remove manually if you do not trust the bat.
 
