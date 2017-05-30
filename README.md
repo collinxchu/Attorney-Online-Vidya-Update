@@ -2,7 +2,7 @@
 __Updates for the 4th of June, 2017.__
 
 ## Current Changes
-* AO2.4.1 Client
+* AO2.4.2 Client
 * New Birdman's emotes and sound effects.
 * Komeada's fixes.  
 * Kazuma's fixes  
