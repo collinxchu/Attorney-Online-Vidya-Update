@@ -10,3 +10,8 @@ SOJ
 DGS
 AAI
 AAI2
+
+============================
+Bat deletion: The following folders will be deleted.
+Roylott (changed to Grimesby Roylott)
+Manually delete them if you do not trust the .bat file.
