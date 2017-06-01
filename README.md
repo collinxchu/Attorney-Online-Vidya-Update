@@ -5,6 +5,7 @@ __Updates for the 4th of June, 2017.__
 * AO2.4.2 Client
 * Evidence for 2.4.0++.
 * New Birdman's emotes and sound effects.
+* Added Baliff JP.
 * Grimesby Roylott rerip.
 * Yuujin Mikotoba rerip.
 * Adachi's fixes.
@@ -18,7 +19,6 @@ __Updates for the 4th of June, 2017.__
 * Added [P5] Suspense.
 * Added [AC] 7pm.
 * Added [DR] Objection!.
-* Added Baliff JP.
 * Added new 999 music.
 
 ## Upcoming Changes
