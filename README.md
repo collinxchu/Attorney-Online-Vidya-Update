@@ -18,7 +18,7 @@ __Updates for the 4th of June, 2017.__
 * Added [P5] Suspense.
 * Added [AC] 7pm.
 * Added [DR] Objection!.
-* Added BaliffJP
+* Added Baliff JP
 
 ## Upcoming Changes
 * None.
