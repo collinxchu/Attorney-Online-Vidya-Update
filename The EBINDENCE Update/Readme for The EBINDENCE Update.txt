@@ -12,6 +12,7 @@ AAI
 AAI2
 
 ============================
-Bat deletion: The following folders will be deleted.
+Bat deletion: The following folders will be deleted/renamed. Manually delete them if you do not trust the .bat file. RUN THE BAT FILE BEFORE UPDATING.
+
 Roylott (changed to Grimesby Roylott)
-Manually delete them if you do not trust the .bat file.
+[DR] Objection.mp3 > [DR] Announce the Truth (Variation).mp3
