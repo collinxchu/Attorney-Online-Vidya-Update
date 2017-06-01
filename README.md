@@ -6,6 +6,7 @@ __Updates for the 4th of June, 2017.__
 * Evidence for 2.4.0++.
 * New Birdman's emotes and sound effects.
 * Grimesby Roylott rerip.
+* Yuujin Mikotoba rerip.
 * Adachi's fixes.
 * Bonnie_Karin's fixes.
 * Bonny de Famme's new emotes.
@@ -16,6 +17,7 @@ __Updates for the 4th of June, 2017.__
 * New DD Lobby and RuinedCourt backgrounds.
 * Added [P5] Suspense.
 * Added [AC] 7pm.
+* Added [DR] Objection!.
 
 ## Upcoming Changes
 * None.
