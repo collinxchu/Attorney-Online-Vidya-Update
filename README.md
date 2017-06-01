@@ -18,7 +18,8 @@ __Updates for the 4th of June, 2017.__
 * Added [P5] Suspense.
 * Added [AC] 7pm.
 * Added [DR] Objection!.
-* Added Baliff JP
+* Added Baliff JP.
+* Added new 999 music.
 
 ## Upcoming Changes
 * None.
