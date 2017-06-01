@@ -20,6 +20,7 @@ __Updates for the 4th of June, 2017.__
 * Added [AC] 7pm.
 * Added [DR] Objection!.
 * Added new 999 music.
+* Added AJMerakitisClinic and AJSunshineColiseum.
 
 ## Upcoming Changes
 * None.
