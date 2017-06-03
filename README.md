@@ -21,6 +21,7 @@ __Updates for the 4th of June, 2017.__
 * Added new 999 music.
 * Added AJMerakitisClinic and AJSunshineColiseum.
 * Machi "updated" sounds.
+* Added new 999 backgrounds.
 
 ## Upcoming Changes
 * None.
