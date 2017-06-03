@@ -20,6 +20,7 @@ __Updates for the 4th of June, 2017.__
 * Added [DR] Objection!.
 * Added new 999 music.
 * Added AJMerakitisClinic and AJSunshineColiseum.
+* Machi "updated" sounds.
 
 ## Upcoming Changes
 * None.
