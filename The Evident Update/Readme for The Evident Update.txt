@@ -15,5 +15,6 @@ AAI2
 Bat deletion: The following folders will be deleted/renamed. Manually delete them if you do not trust the .bat file. RUN THE BAT FILE BEFORE UPDATING.
 
 Roylott (changed to Grimesby Roylott)
+Pearl (Got a cleaner folder)
 EvilManfred in the base/sounds/general folder
 [DR] Objection.mp3 > [DR] Announce the Truth (Variation).mp3
