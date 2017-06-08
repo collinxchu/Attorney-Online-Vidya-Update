@@ -21,3 +21,6 @@ Vortex (changed to Hart Vortex)
     = Rayfa
     = Roger Retinz
     = Ryu Leg
+
+Songs:
+[DR] Pursuit.mp3 to [DR] Danganronpa.mp3
