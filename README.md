@@ -4,6 +4,7 @@ __Updates for the 4th of June, 2017.__
 ## Current Changes
 * AO2.4.2 Client
 * Evidence for 2.4.0++.
+* Evidence from SOJ.
 * New Birdman's emotes and sound effects.
 * Grimesby Roylott rerip.
 * Yuujin Mikotoba rerip.
