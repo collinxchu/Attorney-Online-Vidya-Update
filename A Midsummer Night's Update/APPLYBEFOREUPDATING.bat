@@ -1,8 +1,8 @@
 cd base
 del /s /q "sounds\music\[AOV] anime 2.mp3"
 rmdir /s /q "characters\HajimeHinata"
-ren "characters\Archibald Cronin (Doctor)" "Archibald"
-ren "characters\Archibald Cronin (Casual)" "Archibald Doctor"
+ren "characters\Archibald Cronin (Doctor)" "Archibald Doctor"
+ren "characters\Archibald Cronin (Casual)" "Archibald"
 ren "characters\Connor O'Neal" "Connor"
 ren "characters\Dmitri Demiglavski" "Dmitri"
 ren "characters\Donnabella Bracknell" "Donnabella"
