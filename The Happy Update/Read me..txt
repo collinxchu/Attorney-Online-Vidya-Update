@@ -4,3 +4,5 @@ If you don't trust the bat, please remove the following folders, all found in th
 - Brisbane
 - Delia Karmann
 - Apollo_Counsel
+
+Also, rename the [999] Investigation.mp3 to [999] Investigation (Middle).mp3.
