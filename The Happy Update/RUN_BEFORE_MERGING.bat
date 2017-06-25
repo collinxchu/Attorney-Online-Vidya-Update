@@ -6,6 +6,9 @@ rd /s /q "base\characters\Delia Kartmann"
 
 rd /s /q "base\characters\Apollo_Counsel" 
 
+rename "base\sounds\music\[999] Investigation.mp3" "[999] Investigation (Middle).mp3"
+
+
 echo MSGBOX "Bat file complete!" > %temp%\TEMPmessage.vbs
 call %temp%\TEMPmessage.vbs
 del %temp%\TEMPmessage.vbs /f /q
