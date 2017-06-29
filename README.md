@@ -9,6 +9,8 @@ __Updates for the 2nd of July, 2017.__
 * Added Naoto.
 * New 999 music.
 * Sailor, Auchi Wit and JudgeDGS JP added.
+* Some more Neil emotes.
+
 
 ## Upcoming Changes
 * None.
