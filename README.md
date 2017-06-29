@@ -10,7 +10,7 @@ __Updates for the 2nd of July, 2017.__
 * New 999 music.
 * Sailor, Auchi Wit and JudgeDGS JP added.
 * Some more Neil emotes.
-
+* Added Kazuma W.
 
 ## Upcoming Changes
 * None.
