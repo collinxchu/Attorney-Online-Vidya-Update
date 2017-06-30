@@ -11,6 +11,7 @@ __Updates for the 2nd of July, 2017.__
 * Sailor, Auchi Wit and JudgeDGS JP added.
 * Some more Neil emotes.
 * Added Kazuma W.
+* Added [DD] The Legend of Tenma Taro.
 
 ## Upcoming Changes
 * None.
