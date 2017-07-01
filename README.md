@@ -12,6 +12,8 @@ __Updates for the 2nd of July, 2017.__
 * Some more Neil emotes.
 * Added Kazuma W.
 * Added [DD] The Legend of Tenma Taro.
+* Added Tinpillars
+* Added Bailiff JP
 
 ## Upcoming Changes
 * None.
