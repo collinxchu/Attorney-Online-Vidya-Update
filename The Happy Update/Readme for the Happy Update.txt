@@ -8,7 +8,16 @@ If you don't trust the bat, please remove the following folders, all found in th
 - Delia Kartmann
 - Apollo_Counsel
 
-Also, rename the "[999] Investigation.mp3" to "[999] Investigation (Middle).mp3", and
-rename: "[DD] Jinxie Tenma - Maiden of Nine Tails Vale.mp3" to "[DD] Nine-Tails Vale - Home of the Youkai.mp3"
-both found on the music folder.
-And rename the character folder called "JudgeDGS" to "Judge GB", don't worry about the ini, if you do this correctly, and apply these changes before merging, then everything should be good.
+Rename the following: 
+MUSIC:
+-[999] Investigation.mp3 to [999] Investigation (Middle).mp3
+-[DD] Jinxie Tenma - Maiden of Nine Tails Vale.mp3 to 
+[DD] Nine-Tails Vale - Home of the Youkai.mp3
+
+CHARACTERS:
+-JudgeDGS to Judge GB
+
+Don't worry about the ini, if you do this correctly, and apply these changes before merging, then everything should be good.
+
+BACKGROUND:
+-In DDDefendantLobby, change prosecutiorempty to prosecutorempty

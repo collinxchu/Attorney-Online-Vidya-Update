@@ -14,7 +14,7 @@ rename "base\characters\JudgeDGS" "Judge GB"
 
 rename "base\sounds\music\[DD] Jinxie Tenma - Maiden of Nine Tails Vale.mp3" "[DD] Nine-Tails Vale - Home of the Youkai.mp3"
 
-rename "base\background\DDDefendantLobby\prosecutiorempty.png" "prosecutionempty.png"
+rename "base\background\DDDefendantLobby\prosecutiorempty.png" "prosecutorempty.png"
 
 
 echo MSGBOX "Bat file complete!" > %temp%\TEMPmessage.vbs
