@@ -14,6 +14,7 @@ __Updates for the 2nd of July, 2017.__
 * Added [DD] The Legend of Tenma Taro.
 * Added Tinpillars
 * Added Bailiff JP
+* Added Hazama's second theme.
 
 ## Upcoming Changes
 * None.
