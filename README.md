@@ -1,20 +1,14 @@
 # Attorney-Online-Vidya
-__Updates for the 2nd of July, 2017.__
+__Updates for the 16th of July, 2017.__
 
 ## Current Changes
-* DGSCourt Backgrounds have been updated.
-* Hajime; MilesDD and SOJ; Ryunosuke Witness and Sherlock Undercover fixes.
-* Added [DR] Investigation
-* Added Aigis.
-* Added Naoto.
-* New 999 music.
-* Sailor, Auchi Wit and JudgeDGS JP added.
-* Some more Neil emotes.
-* Added Kazuma W.
-* Added [DD] The Legend of Tenma Taro.
-* Added Tinpillars
-* Added Bailiff JP
-* Added Hazama's second theme.
+* New Vera emotes.
+* New Aigis buttons.
+* Added [SMT] Demonic Crisis.mp3.
+* Added [UMvC3] Objection!.mp3.
+* Added Lucy Baker.
+* Fixed a small botch in Sonohigurashi's folder.
+* Added [BB] Announce the Truth.mp3.
 
 ## Upcoming Changes
 * None.
