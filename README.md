@@ -11,6 +11,7 @@ __Updates for the 16th of July, 2017.__
 * Added Descole.
 * Added Lucy Baker.
 * Fixed a small botch in Sonohigurashi's folder.
+* Added some DGS tracks.
 * Be optimistic.
 
 ## Upcoming Changes
