@@ -3,7 +3,7 @@ __Updates for the 16th of July, 2017.__
 
 ## Current Changes
 * New Vera emotes.
-* New Q emotes.
+* New Q emotes. (even more!)
 * New Aigis buttons.
 * Added [SMT] Demonic Crisis.mp3.
 * Added [UMvC3] Objection!.mp3.
