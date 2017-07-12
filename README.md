@@ -14,6 +14,7 @@ __Updates for the 16th of July, 2017.__
 * Added Descole.
 * Added Lucy Baker.
 * Fixed a small botch in Sonohigurashi's folder.
+* Gave Judge JP a new custom objection.
 * Be optimistic.
 
 ## Upcoming Changes
