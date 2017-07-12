@@ -1,0 +1,4 @@
+If you don't trust the .bat file, please remove the following .gifs in the JudgeJP folder:
+-(a)gavel
+-(b)gavel
+-pre-gavel
