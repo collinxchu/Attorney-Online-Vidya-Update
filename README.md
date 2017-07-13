@@ -13,6 +13,7 @@ __Updates for the 16th of July, 2017.__
 * Added some DGS tracks.
 * Added Descole.
 * Added Lucy Baker.
+* Added Bowl and MrHat to the CS.
 * Fixed a small botch in Sonohigurashi's folder.
 * Gave Judge JP a new custom objection.
 * Be optimistic.
