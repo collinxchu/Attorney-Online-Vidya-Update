@@ -11,6 +11,7 @@ __Updates for the 16th of July, 2017.__
 * Added [BB] Announce the Truth.mp3.
 * Added some P4U tracks.
 * Added some DGS tracks.
+* Added some DGS2 tracks.
 * Added Descole.
 * Added Lucy Baker.
 * Added Bowl and MrHat to the CS.
