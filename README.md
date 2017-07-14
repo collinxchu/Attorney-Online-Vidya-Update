@@ -15,6 +15,7 @@ __Updates for the 16th of July, 2017.__
 * Added Descole.
 * Added Lucy Baker.
 * Added Bowl and MrHat to the CS.
+* Added some sound to the objections of some Layton characters.
 * Fixed a small botch in Sonohigurashi's folder.
 * Gave Judge JP a new custom objection.
 * Be optimistic.
