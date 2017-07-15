@@ -8,6 +8,7 @@ __Updates for the 16th of July, 2017.__
 * New Q emotes. (even more!)
 * New Aigis buttons.
 * New re-rip of Adam Ladyfirst.
+* New re-rip of Scuttlebutt!
 * Added [SMT] Demonic Crisis.mp3.
 * Added [SMT] Regal Crisis.mp3.
 * Added [UMvC3] Objection!.mp3.
