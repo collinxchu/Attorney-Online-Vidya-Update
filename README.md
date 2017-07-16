@@ -5,6 +5,7 @@ __Updates for the 16th of July, 2017.__
 * Updated the anime.mp3
 * New Vera emotes.
 * Redid Mia.
+* Added Coat Gina.
 * New Q emotes. (even more!)
 * New Aigis buttons.
 * New re-rip of Adam Ladyfirst.
