@@ -1,1 +1,2 @@
 Delete the Max folder inside the Komaeada character folder.
+Delete the AthenaDA folder inside the emotions folder of AthenaDA. (I know it sounds strange.)
