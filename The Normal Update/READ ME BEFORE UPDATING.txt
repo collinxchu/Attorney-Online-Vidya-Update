@@ -1,0 +1,1 @@
+Delete the Max folder inside the Komaeada character folder.
