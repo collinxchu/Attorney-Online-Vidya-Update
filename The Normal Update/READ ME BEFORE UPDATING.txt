@@ -1,2 +1,5 @@
+Keep in mind that you might not have these errors.
+If you don't trust the bat, please do the following:
+
 Delete the Max folder inside the Komaeada character folder.
 Delete the AthenaDA folder inside the emotions folder of AthenaDA. (I know it sounds strange.)
