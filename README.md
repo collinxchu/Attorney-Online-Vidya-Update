@@ -6,6 +6,7 @@ __Updates for the 30th of July, 2017.__
 * Re-rip of Bailiff JP.
 * New Descole emotes.
 * Added [BB] Questioning (Presto).
+* A-Added Cyndy Law.
 
 ## Upcoming Changes
 * None.
