@@ -10,6 +10,7 @@ __Updates for the 30th of July, 2017.__
 * Added Phoenix Leg.
 * Added new Naoto emotes.
 * Re-Rip of Payne DGS.
+* Sho objection bubble.
 
 ## Upcoming Changes
 * None.
