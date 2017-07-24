@@ -12,6 +12,7 @@ __Updates for the 30th of July, 2017.__
 * Re-Rip of Payne DGS.
 * Sho objection bubble.
 * Re-Rip of Hobbes.
+* Added a custom bg folder.
 
 ## Upcoming Changes
 * None.
