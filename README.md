@@ -13,6 +13,7 @@ __Updates for the 30th of July, 2017.__
 * Sho objection bubble.
 * Re-Rip of Hobbes.
 * Added a custom bg folder.
+* Small Gina Coat fix.
 
 ## Upcoming Changes
 * None.
