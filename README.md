@@ -9,7 +9,7 @@ __Updates for the 30th of July, 2017.__
 * A-Added Cyndy Law.
 * Added Phoenix Leg.
 * Added new Naoto emotes.
-* Re-Rip of Payne DGS.
+* Re-Rip of Payne DGS and Payne DGS Wit.
 * Sho objection bubble.
 * Re-Rip of Hobbes.
 * Added a custom bg folder.
