@@ -15,6 +15,7 @@ __Updates for the 30th of July, 2017.__
 * Re-Rip of Hobbes.
 * Added a custom bg folder.
 * Small Gina Coat fix.
+* Updated the ddblips.
 
 ## Upcoming Changes
 * None.
