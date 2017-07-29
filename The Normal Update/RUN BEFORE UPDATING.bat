@@ -1,5 +1,6 @@
 rd /s /q "base\characters\Komaeda\Max"
 rd /s /q "base\characters\AthenaDA\emotions\AthenaDA"
+rd /s /q "base\characters\Decago"
 del  /s /q "base\characters\Hobbes\(a)think.gif"
 del  /s /q "base\characters\Hobbes\(b)think.gif"
 del  /s /q "base\characters\Hobbes\pre_think.gif"
