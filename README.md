@@ -16,6 +16,7 @@ __Updates for the 30th of July, 2017.__
 * Added a custom bg folder.
 * Small Gina Coat fix.
 * Updated the ddblips.
+* New excited emote for Trucy.
 
 ## Upcoming Changes
 * None.
