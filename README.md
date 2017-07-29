@@ -18,6 +18,7 @@ __Updates for the 30th of July, 2017.__
 * Added Iris Assistant.
 * Updated the ddblips.
 * New excited emote for Trucy.
+* New thinking emote for Q.
 
 ## Upcoming Changes
 * None.
