@@ -6,6 +6,7 @@ __Updates for the 6th of August, 2017.__
 * Added Phoenix Leg.
 * New Birdman emotes.
 * Added Hobbes Def.
+* Added [LB] Pursuit.mp3.
 
 ## Upcoming Changes
 * None.
