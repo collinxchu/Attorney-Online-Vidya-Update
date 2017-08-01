@@ -5,6 +5,7 @@ __Updates for the 6th of August, 2017.__
 * New Blackquill emotes.
 * Added Phoenix Leg.
 * New Birdman emotes.
+* Added Hobbes Def.
 
 ## Upcoming Changes
 * None.
