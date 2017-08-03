@@ -8,6 +8,7 @@ __Updates for the 6th of August, 2017.__
 * Added Hobbes Def.
 * Added [LB] Pursuit.mp3.
 * Updated Kay bounce emote.
+* Added [DR2] Investigation.mp3
 
 ## Upcoming Changes
 * None.
