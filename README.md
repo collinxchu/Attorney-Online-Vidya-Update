@@ -10,6 +10,7 @@ __Updates for the 13th of August, 2017.__
 * Updated Kay bounce emote.
 * Added [DR2] Investigation.mp3
 * Hazama Laffin emote fix.
+* Stroganov re-rip.
 
 ## Upcoming Changes
 * None.
