@@ -13,6 +13,7 @@ __Updates for the 13th of August, 2017.__
 * Stroganov re-rip.
 * Nikomina with Hat and without a Hat re-rip.
 * Added 5 [DP] tracks.
+* Re-work of Layton.
 
 ## Upcoming Changes
 * None.
