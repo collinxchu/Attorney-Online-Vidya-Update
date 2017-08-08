@@ -12,6 +12,7 @@ __Updates for the 13th of August, 2017.__
 * Shiv re-rip.
 * Hazama Laffin emote fix.
 * Stroganov re-rip.
+* Re-done Elizbeth.
 * Nikomina with Hat and without a Hat re-rip.
 * Added 5 [DP] tracks.
 * Added some more char_icons.

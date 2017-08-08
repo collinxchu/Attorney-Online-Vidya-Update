@@ -1,2 +1,3 @@
 If you don't trust the bat, please do the following:
 - Delete the Layton folder inside the characters folder.
+- Delete the Elizabeth folder inside the characters folder.
