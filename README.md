@@ -17,6 +17,7 @@ __Updates for the 13th of August, 2017.__
 * Added 5 [DP] tracks.
 * Added some more char_icons.
 * Re-work of Layton.
+* Added [DDxDR2] Thought Drive.mp3
 
 ## Upcoming Changes
 * None.
