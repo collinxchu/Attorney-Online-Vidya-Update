@@ -18,6 +18,7 @@ __Updates for the 13th of August, 2017.__
 * Added some more char_icons.
 * Re-work of Layton.
 * Added [DDxDR2] Thought Drive.mp3
+* Changed Lucina's theme.
 
 ## Upcoming Changes
 * None.
