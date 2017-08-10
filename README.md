@@ -19,6 +19,7 @@ __Updates for the 13th of August, 2017.__
 * Re-work of Layton.
 * Added [DDxDR2] Thought Drive.mp3
 * Changed Lucina's theme.
+* Added Bustin'.mp3
 
 ## Upcoming Changes
 * None.
