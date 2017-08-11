@@ -20,6 +20,7 @@ __Updates for the 13th of August, 2017.__
 * Changed Lucina's theme.
 * Added Bustin'.mp3
 * Inferno Cop now can re-appear.
+* Sho has a new zoom.
 
 ## Upcoming Changes
 * None.
