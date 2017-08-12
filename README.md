@@ -22,6 +22,7 @@ __Updates for the 13th of August, 2017.__
 * Inferno Cop now can re-appear.
 * Sho has a new zoom.
 * New Cammy emotes.
+* Some misc blips fixing.
 
 ## Upcoming Changes
 * None.
