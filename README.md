@@ -21,6 +21,7 @@ __Updates for the 13th of August, 2017.__
 * Added Bustin'.mp3
 * Inferno Cop now can re-appear.
 * Sho has a new zoom.
+* New Cammy emotes.
 
 ## Upcoming Changes
 * None.
