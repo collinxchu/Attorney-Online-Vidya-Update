@@ -10,6 +10,7 @@ __Updates for the 27th of August, 2017.__
 * Added [Misc] What is Thinking.mp3.
 * Emmy, Luke and Layton have a new zoom.
 * Fixed some hld/hlp positions.
+* O'Reil re-rip.
 
 ## Upcoming Changes
 * None.
