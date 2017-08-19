@@ -13,6 +13,7 @@ __Updates for the 27th of August, 2017.__
 * O'Reil re-rip.
 * New Hutch emotes.
 * Added Goulloyne.
+* Crab re-rip.
 
 
 ## Upcoming Changes
