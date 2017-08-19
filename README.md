@@ -12,6 +12,8 @@ __Updates for the 27th of August, 2017.__
 * Fixed some hld/hlp positions.
 * O'Reil re-rip.
 * New Hutch emotes.
+* Added Goulloyne.
+
 
 ## Upcoming Changes
 * None.
