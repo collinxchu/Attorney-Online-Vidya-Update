@@ -14,7 +14,7 @@ __Updates for the 27th of August, 2017.__
 * New Hutch emotes.
 * Added Goulloyne.
 * Crab re-rip.
-
+* Roylott re-rip.
 
 ## Upcoming Changes
 * None.
