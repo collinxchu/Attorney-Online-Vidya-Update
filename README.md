@@ -15,6 +15,7 @@ __Updates for the 27th of August, 2017.__
 * Added Goulloyne.
 * Crab re-rip.
 * Roylott re-rip.
+* A second Kazuma witness.
 
 ## Upcoming Changes
 * None.
