@@ -1,4 +1,0 @@
-If you don't trust the bat, please do the following BEFORE updating.
-
--Delete [DGS2] The Introduction of My Partner.mp3
--Crab in the character folder.
